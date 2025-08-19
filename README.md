@@ -5,7 +5,6 @@ Welcome to my space — feel free to explore my skills and projects. Let’s con
 * 🔧 Senior Backend Developer and Team Lead with **10+ years of experience**
 * 🎯 Proficient in developing and scaling secure, fault-tolerant **APIs**, **SaaS** platforms and third-party service **integrations**
 * 🇩🇪 Currently based in **Berlin, Germany**
-* 💻 Open to **remote or hybrid (Berlin) positions in Germany**
 
 ## 🚀 Tech Stack
 * **Main languages**: PHP, SQL
